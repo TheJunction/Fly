@@ -1,0 +1,7 @@
+main: io.thejunct.fly.Fly
+name: Fly
+author: xPlumpOrange
+version: 0.1
+commands:
+  testfly:
+      description: test fly

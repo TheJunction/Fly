@@ -1,7 +1,7 @@
-main: io.thejunct.fly.Fly
+main: #GROUP.#NAME#.#NAME#
 name: Fly
 author: xPlumpOrange
-version: 0.1
+version: #VERSION#
 commands:
   testfly:
       description: test fly
